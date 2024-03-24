@@ -1,0 +1,46 @@
+/*image adjustments*/
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px 25px 25px 25px;
+    border: 2px solid;
+}
+
+/*Background Adjustments*/
+
+body {
+    background-color: rgb(101, 51, 34);
+    text-align: center;
+    border: 2px solid;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol,li {
+    text-align: center;
+    border: 2px solid;
+    padding: 8px;
+    text-align: center;
+    
+}
+
+
+
+h1 {
+    background-color: rgb(203, 173, 129);
+padding: 50px 0 50px 0;
+    margin: 50px auto 50px auto;
+    border: 2px solid;
+
+}
+
+.title {
+background-color: rgb(203, 173, 129);
+padding: 50px 0 50px 0;
+margin: 50px auto 50px auto;
+border: 2px solid;
+}
+
+li {
+    color: bisque;
+}
