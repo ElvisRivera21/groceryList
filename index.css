@@ -44,3 +44,9 @@ border: 2px solid;
 li {
     color: bisque;
 }
+
+/*Strikethrough Function*/
+
+.strikethrough {
+  text-decoration: line-through !important;
+}
